@@ -29,7 +29,7 @@ export function CaseStudies() {
                   </div>
                 </div>
                 <p className="text-muted-foreground">
-                  "ScreensAAX nos ayudó a aumentar el tráfico peatonal en un 25% en nuestras tiendas con publicidad digital dirigida."
+                  ScreensAAX nos ayudó a aumentar el tráfico peatonal en un 25% en nuestras tiendas con publicidad digital dirigida.
                 </p>
               </div>
               <div className="grid grid-cols-2 gap-4 pt-4">
@@ -61,7 +61,7 @@ export function CaseStudies() {
                 </div>
               </div>
               <p className="text-muted-foreground">
-                "La publicidad en pantallas digitales nos ayudó a lanzar nuestra marca con máxima visibilidad en ubicaciones clave."
+                La publicidad en pantallas digitales nos ayudó a lanzar nuestra marca con máxima visibilidad en ubicaciones clave.
               </p>
             </div>
             <div className="grid grid-cols-2 gap-4 pt-4">
