@@ -26,7 +26,7 @@ export function Hero() {
         </div>
          <div className="flex-1 relative w-full h-[500px] mt-8 lg:mt-0">
             <Image
-              src="https://s0.smartresize.com/wallpaper/659/801/HD-wallpaper-cali-es-cali-city-colombia.jpg"
+              src="/calicity.jpg"
               fill
               alt="Times Square de noche con pantallas digitales"
               className="object-contain rounded-2xl"
