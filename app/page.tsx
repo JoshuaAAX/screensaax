@@ -1,4 +1,3 @@
-import { CaseStudies } from "@/components/case-studies"
 import { ContactForm } from "@/components/contact-form"
 import { Features } from "@/components/features"
 import { Footer } from "@/components/footer"
